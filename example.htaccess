@@ -1,0 +1,21 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+<Files "codes.txt">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "gen_link.sh">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Password protect admin.php
+<Files "admin.php">
+    AuthType Basic
+    AuthName "Restricted Area"
+    AuthUserFile /var/www/html/.htpasswd
+    Require valid-user
+</Files>
