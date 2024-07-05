@@ -13,3 +13,24 @@ On-Demand Remote Support for MeshCentral is an open-source project designed to s
 
 ### Code Administration
 ![Code Administration](https://github.com/BitNixLLC/OnDemandRemote/blob/main/images/code_gen.png)
+
+## Usage
+1. **Start the Application**:
+   Deploy the application on your web server.
+
+2. **Generate Codes**:
+   Access the admin panel to generate support codes.
+
+3. **User Access**:
+   Users can enter their support codes on the main application page to initiate remote support sessions.
+
+## Environment
+- **MeshCentral**: Default install via Node.
+- **Web Server**: Apache2
+- **PHP**: Version 8
+
+## License
+This project is licensed under the Unlicense. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- [MeshCentral](https://meshcentral.com/) for providing a robust remote management solution.
