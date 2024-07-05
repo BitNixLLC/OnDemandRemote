@@ -1,2 +1,2 @@
-# OnDemandRemote
-On-Demand Mesh Central for Quick Support
+# On-Demand Remote Support for MeshCentral
+
