@@ -24,6 +24,9 @@ On-Demand Remote Support for MeshCentral is an open-source project designed to s
 3. **User Access**:
    Users can enter their support codes on the main application page to initiate remote support sessions.
 
+## Temporary URL Generation
+Once the correct code is entered, the script generates a temporary URL from MeshCentral. This URL allows users to download the appropriate agent for remote support. This ensures that the agent download is secure and specific to the session initiated by the entered support code.
+
 ## Environment
 - **MeshCentral**: Default install via Node.
 - **Web Server**: Apache2
