@@ -38,6 +38,9 @@ This repository is provided as an example. Proper security measures must be take
 - Keeping the system and software up to date with security patches.
 - Implementing authentication and authorization mechanisms to ensure only authorized users can execute scripts.
 - Logging and monitoring script execution to detect and respond to any suspicious activities.
+- Ensuring scripts with credentials and files that can potentially leak sensitive information are not within the public directory.
+
+This code repository is intended to show the raw code as an example. Our organization, being primarily open source, maintains a level of openness with our clientele by demonstrating code running on our systems. Proper security and operational procedures must be followed to secure the environment when deploying this code. BitNix does not create and maintain these repositories for other users to directly use; they are intended for openness. However, the code itself may be used by anyone as per the Unlicense.
 
 ## License
 This project is licensed under the Unlicense. See the [LICENSE](LICENSE) file for details.
