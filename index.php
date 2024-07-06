@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;700&display=swap" rel=stylesheet>
     <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
     <script src=https://kit.fontawesome.com/3c09bcb51a.js></script>
-    <title>BitNix Remote Support</title>
+    <title>Remote Support</title>
     <link href="styles/main.css" rel="stylesheet">
 </head>
 <body>
@@ -19,7 +19,7 @@
             <div class="left-wrap col-12 col-md-5">
                 <div class=left>
 					<p style="letter-spacing: 4px;font-weight: bold;">
-						<a href="https://bitnix.co/"><span style="color: #7310CF;">B</span><span style="color: #7310CF;">I</span><span style="color: #7310CF;">T</span><font style="color:white">NIX</font></a>
+						<a href="https://example.com/"><span style="color: #7310CF;">Example Co</a>
 					</p>
                 </div>
             </div>
@@ -61,11 +61,7 @@
     <p class=slogan style="color:lightgray"><b>Having issues? Give us a call at (502)206-1005.</b></p>
                 </div>
                 <ul class=icon-list>
-                    <li><a href="https://bitnix.co/privacy">Privacy Policy</a></li><p>&nbsp|&nbsp</p>
-                    <li><a href="https://bitnix.co/company_reports/logging_pub.html">Logging Policy</a></li><p>&nbsp|&nbsp</p>
-                    <li><a href="https://bitnix.co/company_reports/data_usage.html">Data Control</a></li><p>&nbsp|&nbsp</p>
-                    <li><a href="https://bitnix.co/company_reports/data_reports.html">Data Responsibly</a></li><p>&nbsp|&nbsp</p>
-                    <li><a href="https://assist.bitnix.co">Agent Login</a></li>
+                    <li><a href="https://example.com/privacy">Privacy Policy</a></li><p>&nbsp|&nbsp</p>
                 </ul>
             </div>
         </div>
