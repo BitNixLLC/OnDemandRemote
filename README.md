@@ -29,6 +29,13 @@ On-Demand Remote Support for MeshCentral is an open-source project designed to s
 - **Web Server**: Apache2
 - **PHP**: Version 8
 
+## Security Notice
+This repository is provided as an example. Proper security measures must be taken when executing bash scripts from PHP. This includes but is not limited to:
+- Sanitizing input to prevent command injection attacks.
+- Keeping the system and software up to date with security patches.
+- Implementing authentication and authorization mechanisms to ensure only authorized users can execute scripts.
+- Logging and monitoring script execution to detect and respond to any suspicious activities.
+
 ## License
 This project is licensed under the Unlicense. See the [LICENSE](LICENSE) file for details.
 
